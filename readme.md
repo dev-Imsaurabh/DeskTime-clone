@@ -10,7 +10,7 @@ Time Always helps you to track your productive and unproductive time and calcula
  --Back-end----> Heroku </br>
 
 # Features 
---User-specific <br/>
+--Login/Signup
 --Email and Password Validation in the Signup form using Regex  <br/>
 --Dashboard to track your total Productive and Unproductive time  <br/>
 --Web Timer to track your time on a particular task  <br/>
